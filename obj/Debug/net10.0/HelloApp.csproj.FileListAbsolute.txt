@@ -12,3 +12,4 @@ C:\Users\jleone\Documents\C# curso\HelloApp\obj\Debug\net10.0\refint\HelloApp.dl
 C:\Users\jleone\Documents\C# curso\HelloApp\obj\Debug\net10.0\HelloApp.pdb
 C:\Users\jleone\Documents\C# curso\HelloApp\obj\Debug\net10.0\HelloApp.genruntimeconfig.cache
 C:\Users\jleone\Documents\C# curso\HelloApp\obj\Debug\net10.0\ref\HelloApp.dll
+C:\Users\jleone\Documents\C# curso\HelloApp\obj\Debug\net10.0\HelloApp.sourcelink.json
