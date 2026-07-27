@@ -42,13 +42,23 @@ class Car
     public string? Model { get; set; }
     public int? Year { get; set; }
 
+//Constructor con parámetros
+
     public Car(string model, int year)
     {
         Model = model;
         Year = year;
     }
 
+
+//Constructor por defecto
     public Car() { }
+
+//Destructor (~) 
+    ~Car() 
+    {
+        Console.WriteLine("Destructor llamado. Recurso liberado.");
+    }
 
     public void ChangeModel(string newModel)
     {
